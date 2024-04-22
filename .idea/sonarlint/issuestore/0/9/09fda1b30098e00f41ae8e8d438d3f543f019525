@@ -1,0 +1,7 @@
+
+R
+java:S1612""7Replace this lambda with method reference 'Money::add'.(¡¿àŒüÿÿÿÿ
+K
+java:S1874>"0Remove this use of "setScale"; it is deprecated.(ú¦ø±ûÿÿÿÿ
+R
+java:S1874>"7Remove this use of "ROUND_HALF_EVEN"; it is deprecated.(ú¦ø±ûÿÿÿÿ
